@@ -1,0 +1,262 @@
+25.98954519553848	28.07390629481268	O1	Hi Sai, how are you doing today?
+28.573907054566476	31.67136289387697	O2	I'm doing great. Thanks. How about you
+32.16	39.32960521608852	O1	Actually, me and my friends had debate. It's about heart and mind. It's a- actually an interesting topic.
+39.93187885851923	42.000908849169235	O2	Really, that sounds fun.
+42.71681902790764	47.86454500560003	O1	Yes. If you were to choose, would you go with heart or follow your mind
+48.387273072615365	56.36454424584622	O2	Listening to your head might lead to more tangible success. But not following your heart increases your risk of regret.
+57.61454614523072	61.59181427944638	O1	That is actually an interesting insight. So you're pro-heart, right
+61.97168507539403	63.3353235110862	O2	Yes, I am.
+65.04636498319991	72.56863938538442	O1	Sometimes, the reason you are so mentally unstable is because you're thinking with your heart. Your heart was not created for thinking.
+72.59136669264595	78.65954557541538	O1	It is created for making sometimes irrational decisions and pumping oxygenated blood.
+78.77318211172306	84.21636308381541	O1	It doesn't associate with the logical spectrum from miles away. At least that's what I think.
+84.71636384356921	89.85272768713843	O2	Wow. What I'm trying to say is, we must always take to what feels right for us.
+90.04590979886149	96.97772787707689	O2	I believe that our emotions are not governed by brain. But it is actually one of our senses and instinct.
+97.26181921784608	103.58	O2	All that matters is the right thing to do. The thing which comes naturally as a response.
+103.69363653630768	107.40954519553848	O2	It is is the thing that you don't know why but it feels just right. [N]
+108.88681864803075	113.4518769361814	O1	Even if you still vote heart over mind, I kid you not when I say
+113.70187731605826	120.14506892470376	O1	That you have no idea what your mind is physically capable of. You can literally order it
+120.21377331708241	125.55727269273845	O1	To believe in certain qualities that you wants to embody affirm until it manifests.
+125.88681864803073	133.03713396881025	O2	So, let's just say, would you rather stay with someone you don't have feelings, or never ever love to be with someone
+133.0825885833333	137.88681864803073	O2	That can give you a good life or opportunity, because that is what the mind tells you
+138.80727307261537	144.86409134076916	O1	Um, actually, yes. I will choose the person who can guarantee me a good life than stay with the person I love.
+145.8673567819819	151.7618184580923	O2	That's absurd. You cannot force yourself to love someone or be happy. You only live once.
+151.8072730726154	157.6936365363077	O2	You should live your life to the fullest. Be happy, have fun, follow your heart.
+158.6595455754154	162.85272768713847	O2	Emotions it is what keeps us away from success.
+162.90980719058933	170.11474480888867	O1	Sometimes we make decisions out of anger, sadness, loneliness, and we regret it at a later time.
+170.38681940778454	177.71617913158286	O2	So, you're entitled to what you are feeling. It's okay to make some mistakes. Let's normalize it. If you always follow your mind
+177.76163374610596	178.78454576535384	O2	Where's the fun there?
+180.50045442458466	186.28454652510763	O1	Heart will not consider what the world wants from you or what the repercussions might be.
+186.87545499439997	194.4322740223076	O2	Heart knows which things, practices, people, and pleasures make you happy. Don't deprive yourself with happiness.
+195.68475461799858	202.84136403350766	O1	Brain or deep wisdom realizes happiness comes from within, and it's temporarily state of mind.
+202.86409134076916	209.50045138556948	O1	If you're that insightful, you know happiness is merely one of the me- many fleeting state of mind
+209.6025936505979	216.56850724822837	O1	In the spectrum of full emotions, these emotions don't make our lives. They are merely experiences.
+217.02318249159993	223.78454576535387	O2	We can be full of wisdom and philosophical, but can nev- but can never downplay the silly emotional heart.
+223.80727307261532	227.98330096728571	O2	In makes our life more colorful, exciting, and a bit crazy.
+228.17648307900873	231.10272806701533	O1	I can agree to that. Have you already been in love?
+231.32999962012312	233.04590979886154	O2	Um, think no.
+235.12532475662837	239.66513689971538	O1	That's interesting. Um, I can remember the time when I met my husband.
+239.72195516786925	241.16130571048237	O2	So, tell me about it.
+241.3567397373217	244.88681864803078	O1	Well, it's just an ordinary day. No butterflies and sparks.
+245.10272806701533	252.39818306141532	O1	I mean, that's what it's it is supposed to be, right, Because all of the emotions is up just right at the brain, it's not at the heart.
+252.64818344129216	259.9208494965595	O1	I met him at the corner of the street, and it just happened that I missed my ride and I need to hitchhike. Good thing he gave me the ride.
+259.9663041110826	261.84136403350766	O2	Wow, that's so sweet.
+262.01181883796914	265.25040304938983	O1	Not really. Emotional love doesn't develop overnight.
+265.59131265831286	270.48909229046143	O1	That is really what love means, actually. It is not always rainbows and butterflies.
+270.54591055861533	274.30723499311205	O1	Yes, actually, his presence makes me calm. It's comforting.
+274.65950825566586	275.8441691466734	O2	That is something.
+276.3440392887787	279.23896129293604	O1	Yes. Yes, you're right.
+280.6850855933806	282.0941786435959	O1	So
+284.6086363463693	289.1881826815384	O1	Do you think w- women are better than men at expressing their emotions
+290.08590979886145	293.5288551095564	O2	I think, Yes, why
+295.11976661786395	301.0231824915999	O1	Yes, I can agree. Most women are more emotional than men, actually.
+302.15954633516924	309.95500056981535	O1	I think do men are mo- actually more logical than women, and women operate on emotion
+310.8072745921229	312.5175203265699	O2	yeah, that's right. [N]
+315.3016154661081	318.51590979886146	O2	So, would you describe yourself as an emotional person?
+319.3000003798769	323.53742343500727	O1	I can say that I'm more of a logical person.
+323.6169690104227	330.6636372960614	O1	I'm more rational, and I always use my mind. How about you, are you an emotional person
+331.1522728826769	332.23181845809233	O2	uh, no.
+333.1636365363077	337.25454576535384	N	[IVS]
+338.14090922904614	344.12954709492294	N	[IVS]
+344.34545651390755	349.4863265008663	N	[IVS]
+354.03178795317353	356.6804506258156	O2	So, do you know someone who is really emotions
+359.39636384356925	365.02044101412633	O1	Um, yes, I guess my mom, his always yelling sometimes. how about you
+365.17953216495704	367.10091036867675	O2	I think my father with [N]
+371.5431781981873	376.406821952156	O1	Is it beneficial to express your emotion when your in a relationship
+377.42955077892515	378.8159165218789	O2	I think, yes
+379.7363724659711	380.54319187375563	O1	why
+384.88978938752444	387.56024799075493	O1	Um, do you
+390.9665031665777	391.932413725193	O1	Um
+394.8995455754154	401.308637106123	O1	Do you think society is a whole help, people express their emotions, who would usually keep them bottled up
+408.06027914066067	409.36709930819904	O2	Yes [N]
+411.1739202354912	415.92392745315226	O1	Mmm, I also think that. Some of
+417.284545765354	422.3301871874979	O1	Some politicians or um, people in the society is
+422.3415508411286	427.8754603126765	O1	Actually masking their emotions, uh, for their own benefits and i don't think that's healthy
+434.94863672624615	441.4827284468922	O2	So, do you think, what could be the consequences if we fail to manage our emotions
+442.25545537427683	450.15125218902585	O1	Um, as I said a while ago, it can cause ir- irrational decisions [N]
+450.29897968622583	457.4381826815384	O1	That can sometimes affects us, not only us, but um, also the people around us.
+458.26772787707694	463.6768194077846	O2	So again, let's talk about your husband. So, where did you meet
+464.65409210052303	470.1995474747997	O1	So I as I mentioned a while ago, we met on the corner of the street.
+470.2677293965845	477.5063661228306	O1	Regarding to emotions, we're actually not a couple who is P D A or Public Display of Affection. [N]
+477.5631828714767	485.02909115083065	O1	We are merely, we like it to keep private, no posts on Facebook
+485.2790900112	491.7790922904615	O1	Like that, but we also know that we actually value and love each other.
+492.10863672624606	494.438184201046	O2	So, are you still together right now
+494.48363729606143	501.41545537427686	O1	Yes, we're already three years in a relationship and we also have one daughter.
+502.04045480446155	504.04045480446155	O2	Wow, that's amazing.
+505.0745457653537	509.78770644329694	O1	Yes, I guess when you meet the right person, um
+509.8217974041892	513.404091720646	O1	Mmm, you will stay with them through the thick and thin.
+514.1427276871385	515.1427276871385	O2	Yeah, that's right.
+521.1768262455687	526.8545469049847	O2	So, would you say people are more emotional than, now than fifty years ago
+527.4568190279076	534.9610401488561	O1	Yes, I can say that. Um, actually, when I was little, my my mother and my father were
+535.0860403387948	541.2877543077863	O1	Were actually very strict. And with that, we learned to control
+541.4923000731401	547.661366312769	O1	Our emotions and what we are actually um, doing in front of them. So
+547.8318195977231	555.8204559440921	O1	But right now, you can see that most of the kids are uh, very much emotional.
+555.8431817318461	561.1459105586152	O1	They tend to post it on social media and spill it everywhere
+561.1913636536308	564.9868194077845	O1	And I think they should learn to control their emotions.
+565.5890915307076	570.3701848623298	O2	Yeah, that's right. So, what are the benefit of not express your emotions.
+572.0179146387911	579.5904551843383	O1	So, I think that um, every now and then, we ne- we need to express our emotions. It's for our mental health.
+580.045001329569	586.3503227805975	O1	And ah so, most people resort
+586.4071410487512	591.4540867822462	O1	To uh-hum, harming themselves or others if they cannot actually, um
+591.5037397021507	594.7082900260273	O1	Express the emo- their emotions.
+595.4768186480308	599.7154553742769	O2	Yeah, okay. So, let's talk about yourself. So, are you a sensitive person
+600.0449998100615	603.0222740223076	O1	Um, I think I'm a little sensitive.
+603.6472734524922	607.5068186480307	O2	Yeah, me too. So, can you control your emotions well or how
+607.8477282569538	614.3475244134023	O1	Yes, uh, whenever I'm I get angry I just ah, zone um, out and
+614.5634338323869	621.0066254410324	O1	Took a time off, I guess and, um, my husband told me that
+621.0407164019248	626.4613655530152	O1	Sometimes I distance myself to him whenever I'm mad.
+626.8022736424308	632.8818192178461	O1	And um, yes, I guess that's how I manage my feelings.
+633.2	637.2568197876615	O2	So, are you generally a positive person or a negative person
+637.984092100523	642.6318188379693	O1	I tend to be positive. I do don't dwell on negativity, actually.
+642.7454538547695	646.5295459552923	O1	Because it's I believe ha- it's harmful.
+648.0977286368308	655.4613640335078	O2	Yes, you're right. So, do you find it easy to explain your fele- feelings to another person, If not, why is it difficult
+655.8818176983385	662.8818192178462	O1	No, I'm really actually having a hard time telling other people my feelings is
+662.9272738323692	668.9159086592308	O1	Because I think that they cannot understand me because they're actually not in my situation.
+669.6318188379693	676.9386405250151	O1	And uh, I will just waste my time explaining myself to them. So, I'd rather not, um
+677.0522755418153	684.6545446257232	O1	Tell them or express myself to them because, um, I don't want them to
+684.6999992402463	690.1572986976643	O1	Judge me, and I also don't want
+690.2482079267104	695.4045457653538	O1	Them to think that I'm weak, like that.
+695.6999992402463	702.2454606925535	O2	Yeah, you're very amazing.  So, is there a limit to how often you can feel good [N]
+702.3022774411997	707.6659143573843	O2	In other words, if you feel good now, does that mean you will feel bad at sometime, later
+709.0149994301847	714.7763596649235	O1	Actually, when I was little, there was a saying um, to never be too happy because after that
+714.8218142794464	720.7993907130306	O1	You will express s- so much pain like, um, it's some karma thing [N]
+721.1857549364767	724.6513655530154	O1	And I don't actually believe it, in it.
+727.7486359664923	729.7486359664922	O2	So, what makes you feel sad
+730.5781811620309	734.5668175083999	O1	Um, lot of times. Mainly if I don't have money.
+736.7486374859999	741.3736369161845	O2	Yes, you're right. So, if you're feeling down, how can you make yourself feel better
+741.7713632737539	748.8534106139894	O1	Um, I think I just go on with my life. ah, maybe
+748.8875015748816	754.5380783427811	O1	Get a hobby to distract myself, watch movies, read books. [N]
+754.5608056500427	759.2827276871385	O1	In that way, I can, um, calm myself.
+759.8054542346462	764.907412280857	O2	How about shopping. You go shopping to fe- to make you feel better
+764.9869578562724	766.6122736424308	O1	Yes, sometimes, I do that.
+766.660255853403	767.4102569930337	O2	Yeah
+769.0554576535383	771.81	O2	So, what is the saddest movie song or story that you know
+772.5372723128614	779.2625477299248	O1	Um, I guess, about the saddest song, it's Jonnie. It's it is about
+779.4216388807556	787.1054595529226	O1	A childhood hood sweetheart who has an age gap, and, uh
+789.3545446257231	795.6148453046002	O1	They're actually best friends but the person needs to go away [N]
+795.8875729917386	803.5931874299996	O1	And then when they get back, Jonnie's already married. Um, the so- um, about movie [N]
+804.3659158768917	811.4671421195217	O1	I think the saddest movie is that I know of is about [N]
+812.6603257507525	820.2626100297365	O1	Um, I actually forget the title but it's actually about two persons, um [N]
+820.4330648341976	823.9955702474438	O1	That has, I don't know, um
+825.0069354205821	831.0245484244921	O1	That they can't um, an illness that they cannot be six feet apart. Like that
+832.5781792626461	840.26	O2	Okay, your that's, um, amazing movie. So, have you felt satisfied recently, what made you feel that way [N]
+840.9077267374462	847.515492349726	O1	Yes, um, I think I'm happy because I am with my family and we're happy [N]
+847.8223109977565	855.2713636536307	O1	The kids are healthy and, uh, yes that eh, that little thing is um, actually the one that makes me happy. [N]
+856.9381815419076	862.0631832513537	O2	So, do people know how you feel by looking at your face, are you good at hiding your emotions [N]
+862.2790911508307	868.6177971420624	O1	I'm actually really good at hiding my emotions. I don't want others to see me weak
+869.1177979018162	875.4268201675383	O1	Or see me cry. I I tend to get my feelings all bot- bottled up within me. So
+875.5063657429536	883.3394104207226	O1	I guess that's, um, also a negative trait, because um, all of my, um [N]
+883.6916836832762	890.2882846159372	O1	Feelings when it is bottled up, sometimes I just burst out
+890.5269213421833	894.9722740223074	O1	My emotions if um, I'm already full of it.
+895.8359101787385	900.4722732625538	O2	So, which is more powerful between feelings of love and feelings of hate
+901.7563646033229	909.3763818022202	O1	I guess, mm-hmm,  it's actually love because, um when [N]
+909.433200070374	916.6008245979809	O1	Your heart is broken and when the, you decided to unlove a person, that's when hate
+917.3280984303501	924.1890953294765	O1	And uh, anger and all of the other emotions came. So, w- um
+924.2118226367379	930.9959101787383	O1	Love is um, a general emotion that makes you feel every other emotion.
+931.620909608923	935.7913644133844	O2	Yes, so what is the best way to deal with feelings of anger
+936.5981823016616	943.0980239515245	O1	I guess um, you need to confront the person and uh, I guess
+944.1434800855552	950.5326943394545	O1	You also need to express yourself if you wanna write it [N]
+950.6463308757621	958.1104555642154	O1	Or um, actually read books or make a poem or sing.
+958.7127276871386	964.7344204645069	O1	Just ah, just make sure to don't get your emotions bottled up [N]
+964.7685114253994	968.985455374277	O1	Because it will actually hurt you mentally.
+969.2354542346462	972.3150013295691	O2	So, for you, what is emotion
+972.9059097988617	978.5923960672287	O1	The most general concept that fits our fuzzy, indeterminate, mishmash
+978.6605779890133	986.837727877077	O1	Uses of words emotion and emotional is a state on which monitoring mechanism acquires a tendency
+987.2468178882772	992.1833258096275	O1	To abort redirect modulate and some other process of collection
+993.7174190497813	997.1277290167079	O1	What is the most important function of emotion
+997.2527276871384	1003.314024540965	O2	So the main function of the mechanism referred to above is to prevent normal processing
+1003.3481155018571	1009.8890922904615	O2	From continuing in circumstances where some state requiring a change of direction occurs. [N]
+1011.445911318369	1017.4077263575695	O2	Other things that are labeled as emotion by other people, example is desires, concerns, attitudes,
+1017.4418157989542	1021.7089388557707	O2	Preferences, moods, pleasures, pains and etchetera
+1024.0612151573396	1026.5363649831997	O1	What do you think activates emotion
+1026.8545472848616	1033.200433589885	O2	Um, emotion activates those doing some fuzz and those monitoring performance
+1033.3254337798237	1038.7522744021844	O2	Of the environment using fuzz, trainable pattern, recognition mechanisms.
+1038.7863638435697	1043.9795489943076	O1	Let's go back to the, um, topic a while ago. So um [N]
+1045.1386401451382	1050.1954568937845	O1	Do you think um, emotion is actually in the mind
+1051.6954576535384	1054.9127292066462	O1	Is it just in the mind or is it in the heart
+1056.0945476647385	1058.6750013295689	O2	I think it's is heart. [N]
+1060.7431847708613	1068.6977301563381	O1	Yeah, because some people think that um, they feel something in their heart whenever they of feel emotion.
+1068.7318180782154	1074.4022007416427	O1	It's like a butterfly. But so- some some scientific studies proves that
+1074.5158372779504	1078.7204559440922	O1	Emotions are just hormones that is released on the brain.
+1080.0840928602768	1081.924939445211	O1	Do you think that is the case
+1082.118121556934	1084.8624439087646	O2	I think yes, you right
+1087.5442661656261	1090.4172745921232	O2	What emotion do you dislike feeling the most
+1090.7013644133847	1093.9590486401942	O2	Um, I think um, anger
+1094.0158669083482	1101.9022303720405	O1	Because um, it all bo- bottle when it all bottled up it cause of
+1104.6806558408248	1112.6806558408248	O1	It causes you to lose your head, and uh, I don't want to feel angry about someone because
+1112.9732820778775	1117.7904555642156	O1	Um, I lose trust on the person.
+1118.8472738323692	1122.949546715046	O2	so, is it okay to suppress emotion, why or why not
+1123.4040928602765	1130.4949990503076	O1	No. Some people go on hurting themselves, somes some go on suicide because
+1130.6313613743694	1136.529094569723	O1	Of suppressing their emotion, so I will not advise you to suppress your emotion. Instead
+1137.3018214971073	1143.6313644133843	O1	Go and find an outlet, go find a friend, talk about your feelings, write about it.
+1144.6200007597536	1150.6200007597536	O1	Um, so, um, think of how you can express it, don't get it bottled up.
+1152.6995478546764	1160.24	O2	So, you dislike feeling the most is anger. So how do you usually release your anger, do you consider is a good way or why or why not
+1161.001363273754	1168.7034803965719	O1	Um, I usually co- confront person the person who I am angry about
+1168.760298664726	1174.1095463351694	O1	Because I actually think that I need their explanation.
+1175.1209099888	1182.2686374859998	O1	And um, I think that's that's a good way, um, instead of backstabbing them.
+1183.4959105586154	1190.199546335169	O1	So, I think, yeah, that's beneficial in co- confronting the person that you're angry about.
+1192.2336388155693	1196.3863642234464	O2	So, how do you ease your own hurt, do you think it will work on others too
+1197	1204.3068201675383	O1	Um, if I'm hurt, I just lock myself in the room and cry.
+1204.4090930502155	1210.4772764915074	O1	I think it's um, with will also work on other person, but
+1210.670457083723	1215.5416197491907	O1	Some person or or me or I mean, any
+1215.5529834028214	1223.2272745921227	O1	Person or different person have different outlets. Some of them write, some of them talk to a friend whenever they're hurt.
+1223.5909099888001	1229.363638435692	O1	Some of them break things, but as long as it will make you feel better, I can support you on that.
+1229.977274212246	1234.5454553742768	O2	So do you think that showing emotion is a sign of weakness, why or why not
+1235.4659113183689	1241.6354093988418	O1	I think that showing your emotion is actually a weakness, because
+1241.7035913206264	1248.626897295172	O1	Whenever, um, they think that you're angry or sad or
+1249.2405345912334	1256.5757730098946	O1	Or unhappy or not satisfied, some persons who actually use that
+1256.632591278048	1262.5431840111078	O1	In their own benefit to um, actually get back to you. [N]
+1262.8045465251075	1270.4181823016613	O1	So, I I think that um, if you can just keep it all inside
+1270.645453854769	1278.0204559440922	O1	You do that, but if not, you can find a fre- friend you can trust to talk about your feelings.
+1278.3500003798765	1281.521833642838	O1	But make sure that um, you trust that person
+1284.4422926259454	1290.7100015195078	O2	So Ella, do you believe that our feelings can sometimes fool us, if yes, in what way
+1291.0281823016617	1297.255455374277	O1	Yes, I think the a great example of that is um, actually love.
+1297.3804540447081	1304.937274592123	O1	Sometimes we tend to, uh, fantasize a person because of their looks, because how good they were, [N]
+1305.0622732625538	1312.2668175084007	O1	Without actually being with them and not knowing um, not knowing what they are
+1312.3122706034153	1320.5275747304497	O1	In their real life. Because as most of our person has a mask, they don't show what they actually
+1320.6923477080957	1327.9595508936923	O1	Um, what they are actually in front of us.  So, sometimes um
+1328.1640951395382	1333.7605493834792	O1	We can resort to doing things because of of our emotions
+1333.7946403443714	1338.050455564215	O1	And actually that's not beneficial to us.
+1340.8059097988614	1348.067278390892	O1	So how about you, um, do you think um, do you feel weak whenever you express your emotion
+1349.781818078215	1356.675356929923	O2	Yes, because for me, I don't want to show my weakness to to people
+1356.7094478908157	1360.8727288267687	O2	Because I've I think they will judge me easily, when
+1360.9395679548688	1362.212297161515	O1	Yes, that's true
+1363.065912458	1367.4850324461913	O1	Whenever you show your weaknesses to someone or cry,
+1367.5645780216066	1374.2022732625537	O1	They o- often judge you and they actually tend to use it against you.
+1375.0090911508305	1377.85	O2	So how could you create more balance in your life
+1378.7022725027998	1380.838636346369	O1	You, you mean emotions
+1380.8727257877536	1383.85	O2	Yeah, your emotion, [OVERLAP/] how can [/OVERLAP] you balance it
+1384.5431813519692	1390.7249998100617	O1	I think it's okay to be angry and sad and happy sometimes. [N]
+1391.2590900112004	1396.453826464427	O1	But make sure to, if it's um, actually professional,
+1396.4879174253194	1400.85	O1	If it's about work, make sure to control your emotions.
+1401.1454534748923	1403.5772723128614	O2	So how did you deal with a bad day
+1404.2363627039383	1411.6896450698794	O1	Um, it's it's actually r- really hard if it's a hard day, but
+1411.7919179525563	1417.6454587931687	O1	Um, I just slip it off and maybe cry, and um
+1418.9522728826767	1424.8430741474936	O1	Um, I also make sure to um, find some fun
+1424.9112560692777	1432.5545465251073	O1	By doing my hobbies, watching books, um, I I mean reading books and watching um, Netflix.
+1432.85	1434.4181826815384	O2	So who inspire you
+1435.4863630838156	1441.3402583059612	O1	Um, my family is the is the one who actually inspires me.
+1441.4084402277456	1447.4709494397605	O1	They actually, uh, are the reasons why
+1447.5732223224375	1453.6840270623832	O1	Um, even though it's so hard, I manage
+1453.7067543696448	1457.1918184580925	O1	To o- overcome every hardship in life.
+1458.01	1460.646364603323	O2	So how good are you at asking for help
+1461.4872719329846	1468.4823450030508	O1	Um, I guess I'm kind a independent person so it's really hard
+1468.5391632712046	1474.4425813323887	O1	For me to ask help to different uh, person.
+1474.522126907804	1481.6840696085953	O1	Um, I tend to um, I tend to look
+1481.7408878767494	1487.7827284468924	O1	For ways to other than ask help from other person.
+1488.2600003798768	1493.487273452492	O2	So this is my last question. So what's something you're really proud of and why
+1494.2713640335078	1500.7892122753246	O1	I think I am proud of what I have become right now,
+1500.9369397725245	1507.573313492893	O1	My family, my f- my profession, so um,
+1507.6983136828314	1512.010820235708	O1	And also my husband. Um, I guess I feel that
+1512.4312754200462	1518.1463638435691	O1	I have alre- I already have everything whenever they are with me.
+1520.047764266069	1523.3545874726224	O2	So this my last question
+1524.6650001899386	1531.2559101787383	O2	Has there even been a time when you felt you needed to change your behavior, and how do you do it
+1532.0444417598026	1538.5477923769593	O1	Yes, actually I come fro- um, come from a broken family.
+1538.729610835052	1543.716160541298	O1	I my families, my my mom and dad are together but I
+1544.2582199385029	1552.1556763970827	O1	My first husband or boyfriend, were I have two kids with him, um, we broke up and [N]
+1552.2836791916395	1557.5772067833636	O1	Um, when I met my husband, um
+1557.988780049393	1565.896838689535	O1	I cannot actually control my emotions and uh, I'm not proud of that, but
+1566.2305644095793	1573.5347261140014	O1	Um, I learned to control it and change for the better when I met him, and uh
+1574.522766814037	1577.821622671189	O1	And he also help me with that.
+1579.7251558183873	1583.2538938985313	O2	Nice, that's very nice, Ella.
+1583.345454614523	1590.012122348721	O1	Um, I guess I, we need to go now. I guess it's really nice talking to you, Sai.
+1590.7575503511466	1592.309273853044	O2	Yeah, right.
+1595.5264146051775	1596.7340181083039	O1	I need to go now goodbye.
